@@ -4,9 +4,7 @@
 
 ## 演示
 
-### GitHub：[https://sailengsi.github.io/sls-vuex2-demo/dist/](https://sailengsi.github.io/sls-vuex2-demo/dist/)
-### Gitee：[https://sailengsi.gitee.io/sls-vuex2-demo/dist/](https://sailengsi.gitee.io/sls-vuex2-demo/dist/)
-### Coding：[https://sailengsi.coding.me/sls-vuex2-demo/dist/](https://sailengsi.coding.me/sls-vuex2-demo/dist/)
+### GitHub：[https://github.com/jiajun00/cart-vue/dist/](https://github.com/jiajun00/cart-vue/dist/)
 
 ## 操作步骤
 
